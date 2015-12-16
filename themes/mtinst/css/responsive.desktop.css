@@ -1,0 +1,36 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+
+#node-225 .field-name-body,
+#node-213 .field-name-body {
+  font-size: 200%;
+}
+
+#node-225 .field-name-field-read-more-link,
+#node-213 .field-name-field-read-more-link {
+  font-size: 150%;
+}
+
+h1#site-name {
+  font-size: 2em;
+}
+
+#site-slogan {
+  font-size: 120%;
+}
+
+.view-nodequeue-2 .view-content {
+  margin: 0 10%;
+}
+
+.view-nodequeue-2 .views-row {
+  float: left;
+  width: 33%;
+}

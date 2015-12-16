@@ -1,0 +1,100 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+
+/* Increase the body font size on small touch devices */
+
+body {
+  font-size: 100%;
+}
+
+/* =============================================================================
+ *   Mobile Menu Toggle
+ *   See your theme settings extensions for how to enable the menu toggle.
+ *   These are example styles for the menu toggle menu, you can use these in the
+ *   relevant responsive stylesheets as required. Modify to suit your design.
+ * ========================================================================== */
+
+/* The toggle link */
+.at-mt .at-menu-toggle h2 {
+  margin-bottom: 5px;
+}
+
+.at-mt .at-menu-toggle h2 a {
+  background: #eee;
+  border: 2px solid #ccc;
+  padding: 2px 10px;
+}
+
+/* Menu items */
+.at-mt .at-menu-toggle ul.menu li a {
+  background: #eee;
+  border-bottom: 1px solid #fff;
+}
+
+/* MTI Stuff */
+h1#site-name a {
+  font-size: 85%;
+}
+
+#site-slogan {
+  font-size: 89%;
+}
+
+.region-content-aside .block {
+  float: none;
+  width: 98%;
+}
+
+.view-mission p,
+#node-51 .field-name-body {
+  font-size: 79%;
+}
+
+.front .group-overlay {
+  margin-right: 7.5%;
+  margin-top: -11em;
+  min-width: 150px;
+}
+
+.view-mission p,
+.view-mission h2,
+.view-mission h4 {
+  margin: 0;
+}
+
+.view-mission .group-overlay {
+  margin-right: 2.5%;
+  margin-top: -19em;
+  min-width: 220px;
+}
+
+.view-nodequeue-1 .views-row {
+  width: 49% !important;
+}
+
+.view-nodequeue-1 .views-field-title {
+  font-size: 200%;
+}
+
+.view-nodequeue-2 .views-row {
+  width: 49% !important;
+}
+
+.view-nodequeue-2 .views-row.views-row-6 .views-field,
+.view-nodequeue-2 .views-row.views-row-3 .views-field,
+.view-nodequeue-2 .views-row.views-row-4 .views-field,
+.view-nodequeue-2 .views-row.views-row-1 .views-field {
+  text-align: center;
+}
+
+.region-footer .block {
+  float: none !important;
+  width: 99% !important;
+}
